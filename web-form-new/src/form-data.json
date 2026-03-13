@@ -1,0 +1,519 @@
+[
+  {
+    "title": "FORM INFO",
+    "description": "This Study Circle is designed for learners from non-IT backgrounds, as well as some learners from technical backgrounds, who want to build practical IT knowledge and skills in a supportive learning environment. Sessions will be held twice a week on weekends, and each session will usually last 2 to 3 hours. This form will help us understand your background, current engagement, interests, future plans, and expectations so that we can better design the syllabus and learning experience.",
+    "questions": []
+  },
+  {
+    "title": "Section 1: Basic Information",
+    "description": "",
+    "questions": [
+      {
+        "id": "1",
+        "title": "Full Name",
+        "type": "Short answer",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "2",
+        "title": "Mobile Number",
+        "type": "Short answer",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "3",
+        "title": "Email Address",
+        "type": "Short answer",
+        "required": false,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "4",
+        "title": "Age",
+        "type": "Short answer",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "5",
+        "title": "Gender",
+        "type": "Multiple choice",
+        "required": false,
+        "helpText": "",
+        "options": [
+          "Male",
+          "Female",
+          "Prefer not to say",
+          "Other"
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Current Address / Area of Residence",
+        "type": "Short answer",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 2: Educational Background",
+    "description": "",
+    "questions": [
+      {
+        "id": "7",
+        "title": "What is your highest completed level of education?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "SSC / Equivalent",
+          "HSC / Equivalent",
+          "Diploma",
+          "Bachelor\u2019s",
+          "Master\u2019s",
+          "Other"
+        ]
+      },
+      {
+        "id": "8",
+        "title": "What is your academic background / field of study?",
+        "type": "Short answer",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "9",
+        "title": "Are you currently a student?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": "10",
+        "title": "If yes, what are you currently studying?",
+        "type": "Short answer",
+        "required": false,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "11",
+        "title": "Name of your current or most recent educational institution",
+        "type": "Short answer",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 3: Current Engagement",
+    "description": "",
+    "questions": [
+      {
+        "id": "12",
+        "title": "What is your current status?",
+        "type": "Checkboxes",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Student",
+          "Job holder",
+          "Business owner",
+          "Freelancer",
+          "Job seeker",
+          "Homemaker",
+          "Not currently engaged",
+          "Other"
+        ]
+      },
+      {
+        "id": "13",
+        "title": "If employed or engaged in work, what do you currently do?",
+        "type": "Paragraph",
+        "required": false,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "14",
+        "title": "Do you have any previous work experience?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": "15",
+        "title": "If yes, please briefly mention your work experience",
+        "type": "Paragraph",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 4: Technology & Digital Skill Background",
+    "description": "",
+    "questions": [
+      {
+        "id": "16",
+        "title": "How would you describe your current level of computer/IT knowledge?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Complete beginner",
+          "Basic user",
+          "Intermediate",
+          "Advanced beginner",
+          "Technical background"
+        ]
+      },
+      {
+        "id": "17",
+        "title": "Which of the following can you currently do?",
+        "type": "Checkboxes",
+        "required": false,
+        "helpText": "",
+        "options": [
+          "Use a computer/laptop comfortably",
+          "Use Microsoft Word",
+          "Use Microsoft Excel",
+          "Create presentations in PowerPoint",
+          "Use email professionally",
+          "Browse and search effectively on the internet",
+          "Use Google Drive / online documents",
+          "Type in English",
+          "Type in Bangla",
+          "Use AI tools like ChatGPT",
+          "Basic graphic design",
+          "Basic video editing",
+          "None of the above",
+          "Other"
+        ]
+      },
+      {
+        "id": "18",
+        "title": "Do you own or have regular access to the following?",
+        "type": "Checkboxes",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Smartphone",
+          "Laptop",
+          "Desktop computer",
+          "Stable internet connection",
+          "Personal email address"
+        ]
+      },
+      {
+        "id": "19",
+        "title": "Which device will you mainly use for this Study Circle?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Smartphone",
+          "Laptop",
+          "Desktop",
+          "Shared device",
+          "Not sure yet"
+        ]
+      },
+      {
+        "id": "20",
+        "title": "Have you attended any IT, computer, or digital skills training before?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "id": "21",
+        "title": "If yes, please mention the training/course name",
+        "type": "Short answer",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 5: Learning Interests",
+    "description": "",
+    "questions": [
+      {
+        "id": "22",
+        "title": "Which topics are you most interested in learning?",
+        "type": "Checkboxes",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Basic computer operation",
+          "Internet and email usage",
+          "Microsoft Word",
+          "Microsoft Excel",
+          "PowerPoint presentation",
+          "Google Workspace tools",
+          "Typing skills",
+          "Online research skills",
+          "Digital communication",
+          "AI tools for productivity",
+          "Freelancing basics",
+          "Graphic design basics",
+          "CV writing and job preparation",
+          "Digital marketing basics",
+          "Cyber safety / online security"
+        ]
+      },
+      {
+        "id": "23",
+        "title": "Which 3 topics are your highest priority?",
+        "type": "Paragraph",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "24",
+        "title": "Why are you interested in joining this Study Circle?",
+        "type": "Paragraph",
+        "required": true,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 6: Goals, Future Plan & Motivation",
+    "description": "",
+    "questions": [
+      {
+        "id": "25",
+        "title": "What is your main goal for joining this Study Circle?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Learn basic IT skills",
+          "Improve academic performance",
+          "Become more confident with technology",
+          "Prepare for a job",
+          "Improve workplace skills",
+          "Start freelancing",
+          "Start a career in IT",
+          "Personal development",
+          "Other"
+        ]
+      },
+      {
+        "id": "26",
+        "title": "What are your future career or learning plans?",
+        "type": "Paragraph",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "27",
+        "title": "Do you want to pursue any of the following in future?",
+        "type": "Checkboxes",
+        "required": false,
+        "helpText": "",
+        "options": [
+          "Office/job-related computer work",
+          "Freelancing",
+          "IT support / technical work",
+          "Graphic design",
+          "Digital marketing",
+          "Entrepreneurship / business",
+          "Higher studies",
+          "Not sure yet",
+          "Other"
+        ]
+      },
+      {
+        "id": "28",
+        "title": "What motivates you most to learn new skills?",
+        "type": "Paragraph",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 7: Availability & Commitment",
+    "description": "",
+    "questions": [
+      {
+        "id": "29",
+        "title": "Are you able to attend sessions twice a week on weekends?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "Mostly yes",
+          "Not always",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "30",
+        "title": "How many hours per week can you realistically give for learning and practice outside class?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Less than 2 hours",
+          "2 to 4 hours",
+          "4 to 6 hours",
+          "More than 6 hours"
+        ]
+      },
+      {
+        "id": "31",
+        "title": "Are you willing to complete assignments or practice tasks between sessions?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "No",
+          "Sometimes"
+        ]
+      },
+      {
+        "id": "32",
+        "title": "What time on weekends is generally most convenient for you?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Morning",
+          "Afternoon",
+          "Evening",
+          "Flexible"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Section 8: Expectations from the Study Circle",
+    "description": "",
+    "questions": [
+      {
+        "id": "33",
+        "title": "What do you expect from this Study Circle?",
+        "type": "Paragraph",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "34",
+        "title": "What kind of teaching method helps you learn best?",
+        "type": "Checkboxes",
+        "required": false,
+        "helpText": "",
+        "options": [
+          "Lecture / explanation",
+          "Live demonstration",
+          "Hands-on practice",
+          "Group discussion",
+          "Q&A session",
+          "Real-life examples",
+          "Practice assignments",
+          "Step-by-step guided exercises"
+        ]
+      },
+      {
+        "id": "35",
+        "title": "What challenges do you think you may face while learning?",
+        "type": "Checkboxes",
+        "required": false,
+        "helpText": "",
+        "options": [
+          "Lack of prior knowledge",
+          "Fear of technology",
+          "Lack of device",
+          "Internet problem",
+          "Lack of time",
+          "Lack of confidence",
+          "Language barrier",
+          "Difficulty practicing regularly",
+          "Other"
+        ]
+      },
+      {
+        "id": "36",
+        "title": "Is there any specific support you would like from the mentor/facilitator?",
+        "type": "Paragraph",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 9: Final Reflection",
+    "description": "",
+    "questions": [
+      {
+        "id": "37",
+        "title": "In one sentence, what would success in this Study Circle look like for you?",
+        "type": "Paragraph",
+        "required": true,
+        "helpText": "",
+        "options": []
+      },
+      {
+        "id": "38",
+        "title": "Is there anything else you would like us to know about you?",
+        "type": "Paragraph",
+        "required": false,
+        "helpText": "",
+        "options": []
+      }
+    ]
+  },
+  {
+    "title": "Section 10: Consent",
+    "description": "",
+    "questions": [
+      {
+        "id": "39",
+        "title": "Do you agree that the information you provide will be used only for training planning, student engagement, and Study Circle management purposes?",
+        "type": "Multiple choice",
+        "required": true,
+        "helpText": "",
+        "options": [
+          "Yes",
+          "No"
+        ]
+      }
+    ]
+  }
+]
